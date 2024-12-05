@@ -10,3 +10,6 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Ignore Python cache files
+__pycache__/
